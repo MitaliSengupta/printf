@@ -67,5 +67,4 @@ output : The dog jumped 7 times! -C
 Our program does not handle buffer handling, flag characters, field width, precision, or length modifiers.
 
 ### Authors
-Mitali Sengupta
-Omar Contreras
+Mitali Sengupta and Omar Contreras
